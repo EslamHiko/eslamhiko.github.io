@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://eslamhiko.github.io/sitemap.xml
